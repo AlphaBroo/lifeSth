@@ -1,0 +1,7 @@
+
+fastTools
+1.sublime Text
+2.wox githubSearch
+3. traffic https://github.com/zhongyang219/TrafficMonitor.git
+4. Xmanager Enterprise
+5. lantern
